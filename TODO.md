@@ -4,3 +4,4 @@ Better errors
     - Github Issue?
 
 !!! Windows + Linux Support
+Run CI on pull request
